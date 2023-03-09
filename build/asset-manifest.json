@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Christopher-Zavala-React-Portfolio2/static/css/main.442dab3d.css",
-    "main.js": "/Christopher-Zavala-React-Portfolio2/static/js/main.a5333ee0.js",
+    "main.js": "/Christopher-Zavala-React-Portfolio2/static/js/main.57d1aa78.js",
     "static/media/DrinksRUs.png": "/Christopher-Zavala-React-Portfolio2/static/media/DrinksRUs.c3ec38eca4d32fb735f0.png",
     "static/media/Trailer.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Trailer.2285fc3234ad22c3b70d.jpg",
     "static/media/Cineme.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Cineme.6fc0b20ff39c9068a039.jpg",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/Christopher-Zavala-React-Portfolio2/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Christopher-Zavala-React-Portfolio2/index.html",
     "main.442dab3d.css.map": "/Christopher-Zavala-React-Portfolio2/static/css/main.442dab3d.css.map",
-    "main.a5333ee0.js.map": "/Christopher-Zavala-React-Portfolio2/static/js/main.a5333ee0.js.map"
+    "main.57d1aa78.js.map": "/Christopher-Zavala-React-Portfolio2/static/js/main.57d1aa78.js.map"
   },
   "entrypoints": [
     "static/css/main.442dab3d.css",
-    "static/js/main.a5333ee0.js"
+    "static/js/main.57d1aa78.js"
   ]
 }
