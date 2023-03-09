@@ -13,7 +13,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://www.linkedin.com/in/christopher-zavala-569703268/",
-      style: "rounded-tr-md w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500",
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://github.com/ChrisZavala",
-      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-[#0a0908]",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-black-500",
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "mailto:frappejcat@gmail.com",
-      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#58C0A9]",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-purple-500",
     },
     {
       id: 4,
@@ -43,7 +43,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://chriszavala.github.io/UTA-bootcamp-challenge2/assets/docs/ChristopherZavalaResume%20.pdf",
-      style: "rounded-br-md w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#383f51]",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-500",
       download: true,
     },
   ];
