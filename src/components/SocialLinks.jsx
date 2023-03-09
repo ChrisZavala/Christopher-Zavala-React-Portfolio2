@@ -13,7 +13,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://www.linkedin.com/in/christopher-zavala-569703268/",
-      style: "rounded-tr-md w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500",
+      style: "rounded-tr-md w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600",
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://github.com/ChrisZavala",
-      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-[#181823]",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-[#0a0908]",
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "mailto:frappejcat@gmail.com",
-      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-500",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#58C0A9]",
     },
     {
       id: 4,
