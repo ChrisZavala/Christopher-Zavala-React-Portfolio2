@@ -73,10 +73,12 @@ SOFTWARE.
   https://github.com/chriszavala
 
   ## Live Site
-  [Click to see the live site](https://chriszavala.github.io/UTA-bootcamp-challenge20/)
+  [Click to see the live site](https://chriszavala.github.io/Christopher-Zavala-React-Portfolio2/)
 
   ## Screenshots:
-![Alt text](./src/assets/projects/Recording%202023-03-03%20at%2016.56.25.gif)
-![Alt text](./src/assets/projects/Recording%202023-03-03%20at%2016.58.09.gif)
-![Alt text](./src/assets/projects/Recording%202023-03-03%20at%2016.59.47.gif)
+![Alt text](./src/assets/Image%203-8-23%20at%2011.58%20PM.jpg)
+![Alt text](./src/assets/Image%203-8-23%20at%2011.58%20PM%20(1).jpg)
+![Alt text](./src/assets/Image%203-8-23%20at%2011.59%20PM.jpg)
+![Alt text](./src/assets/Image%203-8-23%20at%2011.59%20PM%20(1).jpg)
+![Alt text](./src/assets/Image%203-8-23%20at%2011.59%20PM%20(2).jpg)
 
