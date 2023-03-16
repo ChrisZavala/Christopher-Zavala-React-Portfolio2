@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Christopher-Zavala-React-Portfolio2/static/css/main.e5f50edb.css",
-    "main.js": "/Christopher-Zavala-React-Portfolio2/static/js/main.13444526.js",
+    "main.js": "/Christopher-Zavala-React-Portfolio2/static/js/main.7d020b68.js",
     "static/media/DrinksRUs.png": "/Christopher-Zavala-React-Portfolio2/static/media/DrinksRUs.c3ec38eca4d32fb735f0.png",
     "static/media/Trailer.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Trailer.2285fc3234ad22c3b70d.jpg",
     "static/media/Cineme.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Cineme.6fc0b20ff39c9068a039.jpg",
     "static/media/Blog.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Blog.6fbed8b81b7356c2423c.jpg",
+    "static/media/PlanTracker.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/PlanTracker.2e021e715622f8d3d30c.jpg",
     "static/media/graphql.png": "/Christopher-Zavala-React-Portfolio2/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/heroImage.png": "/Christopher-Zavala-React-Portfolio2/static/media/heroImage.e75a5eae9fbebef614df.png",
     "static/media/react.png": "/Christopher-Zavala-React-Portfolio2/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -22,10 +23,10 @@
     "static/media/javascript.png": "/Christopher-Zavala-React-Portfolio2/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Christopher-Zavala-React-Portfolio2/index.html",
     "main.e5f50edb.css.map": "/Christopher-Zavala-React-Portfolio2/static/css/main.e5f50edb.css.map",
-    "main.13444526.js.map": "/Christopher-Zavala-React-Portfolio2/static/js/main.13444526.js.map"
+    "main.7d020b68.js.map": "/Christopher-Zavala-React-Portfolio2/static/js/main.7d020b68.js.map"
   },
   "entrypoints": [
     "static/css/main.e5f50edb.css",
-    "static/js/main.13444526.js"
+    "static/js/main.7d020b68.js"
   ]
 }
