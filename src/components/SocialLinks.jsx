@@ -23,7 +23,7 @@ const SocialLinks = () => {
         </>
       ),
       href: "https://github.com/ChrisZavala",
-      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-black-500",
+      style: "w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300  bg-black-600",
     },
     {
       id: 3,

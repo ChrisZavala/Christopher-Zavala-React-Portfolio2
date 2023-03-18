@@ -1,7 +1,7 @@
 import React from "react";
 import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link } from "react-scroll";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -36,6 +36,7 @@ const Home = () => {
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
             </Link>
+
           </div>
         </div>
 
