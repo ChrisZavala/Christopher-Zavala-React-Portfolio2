@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Christopher-Zavala-React-Portfolio2/static/css/main.e5f50edb.css",
-    "main.js": "/Christopher-Zavala-React-Portfolio2/static/js/main.7d020b68.js",
-    "static/media/DrinksRUs.png": "/Christopher-Zavala-React-Portfolio2/static/media/DrinksRUs.c3ec38eca4d32fb735f0.png",
+    "main.css": "/Christopher-Zavala-React-Portfolio2/static/css/main.df855732.css",
+    "main.js": "/Christopher-Zavala-React-Portfolio2/static/js/main.6ef216a1.js",
     "static/media/Trailer.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Trailer.2285fc3234ad22c3b70d.jpg",
-    "static/media/Cineme.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Cineme.6fc0b20ff39c9068a039.jpg",
-    "static/media/Blog.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Blog.6fbed8b81b7356c2423c.jpg",
-    "static/media/PlanTracker.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/PlanTracker.2e021e715622f8d3d30c.jpg",
+    "static/media/Cineme.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Cineme.40943e050022c6b7b6d0.jpg",
+    "static/media/WeatherDashboard.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/WeatherDashboard.c612851eb6dc09b59400.jpg",
     "static/media/graphql.png": "/Christopher-Zavala-React-Portfolio2/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/Blog.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/Blog.38539d72bfb732385631.jpg",
+    "static/media/DrinksRUs.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/DrinksRUs.e302b2fc16e18d177280.jpg",
+    "static/media/PlanTracker.jpg": "/Christopher-Zavala-React-Portfolio2/static/media/PlanTracker.123b0bda41d58bef9998.jpg",
     "static/media/heroImage.png": "/Christopher-Zavala-React-Portfolio2/static/media/heroImage.e75a5eae9fbebef614df.png",
     "static/media/react.png": "/Christopher-Zavala-React-Portfolio2/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Christopher-Zavala-React-Portfolio2/static/media/node.952a9ea986dcfa5229ad.png",
@@ -22,11 +23,11 @@
     "static/media/firebase.png": "/Christopher-Zavala-React-Portfolio2/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/Christopher-Zavala-React-Portfolio2/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Christopher-Zavala-React-Portfolio2/index.html",
-    "main.e5f50edb.css.map": "/Christopher-Zavala-React-Portfolio2/static/css/main.e5f50edb.css.map",
-    "main.7d020b68.js.map": "/Christopher-Zavala-React-Portfolio2/static/js/main.7d020b68.js.map"
+    "main.df855732.css.map": "/Christopher-Zavala-React-Portfolio2/static/css/main.df855732.css.map",
+    "main.6ef216a1.js.map": "/Christopher-Zavala-React-Portfolio2/static/js/main.6ef216a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5f50edb.css",
-    "static/js/main.7d020b68.js"
+    "static/css/main.df855732.css",
+    "static/js/main.6ef216a1.js"
   ]
 }
