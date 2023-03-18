@@ -9,7 +9,7 @@ import SocialLinks from "./components/SocialLinks";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Christopher-Zavala-React-Portfolio2">
       <div>
         <NavBar />
 
